@@ -128,13 +128,14 @@ h3 {
 }
 
 #facts {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 .woofs {
   text-align: left;
   color: #000000;
   height: 15rem;
+  width: 90%;
 }
 
 h4 {
@@ -152,4 +153,20 @@ h4 {
 
 footer {
   background-color: #048eaa;
+  text-align: center;
+  color: #ffffff;
+  padding: 2rem 0;
+  font-weight: normal;
 }
+
+h5 {
+  font-weight: normal;
+}
+
+.icon {
+  padding: .5rem;
+}
+
+
+
+
