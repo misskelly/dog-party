@@ -7,9 +7,7 @@ Dog party was built from a comp for our first assignment for the Front-End engin
 
 ### COMP
 
-![comp] 
-(https://misskelly.github.com/dog-party/images/comp.jpg)
+![comp](https://misskelly.github.com/dog-party/images/comp.jpg)
 
 ### SCREENGRAB
-![screengrab] 
-(https://misskelly.github.com/dog-party/images/screengrab.png)
+![screengrab](https://misskelly.github.com/dog-party/images/screengrab.png)
